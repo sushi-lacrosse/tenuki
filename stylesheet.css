@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+body main .intro {
+  text-align: center;
+}
+
+body main .intro .face {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+body main .intro .face img {
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=stylesheet.css.map */
